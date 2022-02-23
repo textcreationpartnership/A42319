@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Keeper's speech to Mr. Serjeant Savnders, at the time he was sworn Lord Chief Justice of His Majestie's Court of Kings-Bench, Tuesday the 23d, January, 1682</title>
+            <author>Guilford, Francis North, Baron, 1637-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42319</idno>
+            <idno type="STC">Wing G2217</idno>
+            <idno type="STC">ESTC R14038</idno>
+            <idno type="EEBO-CITATION">12850179</idno>
+            <idno type="OCLC">ocm 12850179</idno>
+            <idno type="VID">94498</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42319)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94498)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 714:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Keeper's speech to Mr. Serjeant Savnders, at the time he was sworn Lord Chief Justice of His Majestie's Court of Kings-Bench, Tuesday the 23d, January, 1682</title>
+                  <author>Guilford, Francis North, Baron, 1637-1685.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Pawlet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>From 1682 to 1685, the office of Lord Keeper of the Great Seal was filled by Francis North, 1st baron Guilford.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saunders, Edmund, --  Sir, d. 1683.</term>
+               <term>Judges --  England.</term>
+               <term>Legal ethics --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94498:1"/>
+            <pb facs="tcp:94498:1" rendition="simple:additions"/>
+            <p>THE Lord Keeper's SPEECH TO Mr. Serjeant <hi>SA<g ref="char:V">Ʋ</g>NDERS,</hi> At the time He was Sworn <hi>LORD CHIEF J<g ref="char:V">Ʋ</g>STICE</hi> Of His MAJESTIE'S Court OF Kings-Bench, Tueſday the 23<hi>d. January,</hi> 1682.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Pawlet,</hi> at the Sign of the Bible in <hi>Chancery-Lane,</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:94498:2"/>
+            <pb n="3" facs="tcp:94498:2"/>
+            <head>THE LORD KEEPER'S SPEECH TO Mr. Serjeant <hi>SA<g ref="char:V">Ʋ</g>NDERS,</hi> At the time He was Sworn LORD CHIEF JUSTICE Of His Majeſtie's Court of Kings-Bench.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>OU are ſent for hither by the Kings Command, to ſupply the Place of Chief Juſtice of this Court, now vacant by the removal of the Lord Chief Juſtice <hi>Pemberton,</hi> to be Chief Juſtice of the Court of <hi>Common-Pleas.</hi>
+            </p>
+            <p>It was a very unpolitick courſe that was taken heretofore, to puniſh a Chief Juſtice that ſerved Ill in the <hi>Common-Pleas,</hi> by advancing him to this Place, to make him diſcontented, and at the ſame time to intruſt him with greater Power.</p>
+            <p>
+               <pb n="4" facs="tcp:94498:3"/>The King has inverted that courſe; He will not have this a Seat of diſcon<g ref="char:EOLhyphen"/>tent: they that ſerve Him well here, ſhall have this encouragement, that though they are in the Higheſt Place of the Law, they are not above his Reward; for if they deſire it, He will prefer them to Eaſe and Plenty in a Lower Station.</p>
+            <p>There could never be a better occa<g ref="char:EOLhyphen"/>ſion to make this demonſtration; for no Mans Services were more Emi<g ref="char:EOLhyphen"/>nent, nor better Accepted, than my Lord Chief Juſtice <hi>Pemberton</hi>'s, and yet there was a further Reaſon for the taking him from Hence, The King had need of his Service in His Privy Council, which would require more time than could be ſpared from this buſie Province, without great preju<g ref="char:EOLhyphen"/>dice to His People.</p>
+            <p>And that His People may not ſuffer in the want of ſo good a Magiſtrate, His Majeſty hath taken care in the Choice of Your Self, to Succeed him in this Great and Important Office.</p>
+            <p>
+               <pb n="5" facs="tcp:94498:3"/>You are ſo qualified for it by your natural and acquired Parts, by your ſo<g ref="char:EOLhyphen"/>lid Judgment to determine right, and your clear expreſſion of reaſon for the ſa<g ref="char:EOLhyphen"/>tisfaction of others, by your Knowledge of the Law, and long experience in the practice of this Court: And theſe abi<g ref="char:EOLhyphen"/>lities not maſtered by any unruly paſ<g ref="char:EOLhyphen"/>ſions, nor accompanied with any ſuſ<g ref="char:EOLhyphen"/>pition of Pride or Covetouſneſs, but having the advantage of meeting a Per<g ref="char:EOLhyphen"/>ſon of manifeſt Integrity and Affection to the King's Service; I ſay, you are thus ſo eminently qualified for this Of<g ref="char:EOLhyphen"/>fice, that the King immediately, and without any Heſitation deſigned the Office for You; and though others had been longer in His Service, and very uſeful to it, yet His Majeſty was pleaſed with an Occaſion, to ſhew the World, that he will conſider neither Age nor Order, in diſpoſing of Places of Great Truſt in the Law, but they which are moſt fit and deſerve beſt of him, ſhall be preferred.</p>
+            <p>
+               <pb n="6" facs="tcp:94498:4"/>Mr. Serjeant, The Greatneſs of your Merit doth not leſſen the Obli<g ref="char:EOLhyphen"/>gation you have to the King; for not<g ref="char:EOLhyphen"/>withſtanding this Great Character you have obtained in the World, there is much more to be expected from you, which the King takes upon truſt. You are now to ſhew your Self a Good Magiſtrate, which requires another ſort of Spirit; Every good Lawyer can<g ref="char:EOLhyphen"/>not make a good Judge, nor every good Man a good Magiſtrate, though every good Judge muſt be a good Law<g ref="char:EOLhyphen"/>yer and a good Man.</p>
+            <p>Sometimes a private man is commen<g ref="char:EOLhyphen"/>ded for Qualities, which in a Magi<g ref="char:EOLhyphen"/>ſtrate would be Faults.</p>
+            <p>A private man is praiſed for ſhew<g ref="char:EOLhyphen"/>ing Humility and Deference to others in his Converſation, and paſſing by Indignities.</p>
+            <p>But a Judge muſt take Greatneſs
+<pb n="7" facs="tcp:94498:4"/>
+upon him; He muſt conſider he repre<g ref="char:EOLhyphen"/>ſents the King's Perſon in his Seat of Juſtice; He muſt therefore be very care<g ref="char:EOLhyphen"/>ful to preſerve the Dignity that belongs to it.</p>
+            <p>He muſt have Paſſions, but not of a private man, that may diſturb his Judgment, but he muſt aſſume Paſſion to ſet off his Severity, when the Great<g ref="char:EOLhyphen"/>neſs of the Crime requires it; but it muſt be done ſo, as it may appear that his Judgment governs his Paſſion, and directs it againſt the Offence, and not againſt the Perſon.</p>
+            <p>A Judge muſt be covetous, but not as a private man, for his own profit, but he muſt be very ſolicitous for the King's Profit, knowing that the King's Revenue is like the Animal Spirits, with<g ref="char:EOLhyphen"/>out which the Government would not be able to perform its ordinary Moti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Mr. Serjeant, you that have already
+<pb n="8" facs="tcp:94498:5"/>
+ſhown your ſelf a good man and a good Lawyer, will now approve your ſelf (I doubt not) a good Magiſtrate, and a good Judge; I may ſay without Flat<g ref="char:EOLhyphen"/>tery, that you come into this Seat with as few Paſſions and perſonal Frailties, as any that have been before you.</p>
+            <p>But in another reſpect your Burthen is far greater than theirs, in reſpect of the Times; The Age is degenerate and full of Faults; Faults of Irreligion, Im<g ref="char:EOLhyphen"/>morality, Debauchery, Quarrelling, Falſeneſs and Faction, ſo full of Faults that it requires more than a man to cen<g ref="char:EOLhyphen"/>ſure them.</p>
+            <p>You will therefore conſider that infe<g ref="char:EOLhyphen"/>riour Magiſtrates and inferiour Juriſdi<g ref="char:EOLhyphen"/>ctions are to take a great part of this La<g ref="char:EOLhyphen"/>bour off your hands, in that regard you will upon all Occaſions encourage and direct them to make them uſeful to you, and not overthrow their Proceedings upon every ſlight Exception, to drive People to begin their Proceſs here at greater Charge.</p>
+            <p>
+               <pb n="9" facs="tcp:94498:5"/>And when Juſtices of the Peace act candidly, though not with ſo much Skill in the Law, you will ſhew Ten<g ref="char:EOLhyphen"/>derneſs to them, as Gentlemen that ſerve the King and the Publick for no<g ref="char:EOLhyphen"/>thing, and have not thoſe Aſſiſtances of Council and Officers that are here.</p>
+            <p>You have the Aſſiſtance of very skilful Officers in this Court, and you will give them all due Encouragement; but you muſt have a ſtrict Eye over them, that they neither oppreſs the Innocent, by ſending out Proceſs, up<g ref="char:EOLhyphen"/>on every malicious and frivolous In<g ref="char:EOLhyphen"/>formation, nor take part with Offen<g ref="char:EOLhyphen"/>ders, by making Errors, whereby, af<g ref="char:EOLhyphen"/>ter Conviction they ſhall eſcape out of the Hands of Juſtice.</p>
+            <p>They are paid Fees for Diſchar<g ref="char:EOLhyphen"/>ges, but not for Convictions; and therefore it may be feared they will not be careful to prevent Errors: But they ſhould know, the greateſt Uſe of Officers, is, that Buſineſs ſhould be in the Hands of skilful Men; and that when a Criminal eſcapes by their Neg<g ref="char:EOLhyphen"/>ligence or Ignorance, the Fault of the
+<pb n="10" facs="tcp:94498:6"/>
+Offender lies upon them, and they ſhow themſelves to be unfit for their places.</p>
+            <p>
+               <hi>Mr. Serjeant,</hi> When you have the due Aſſiſtance of Inferiour Ma<g ref="char:EOLhyphen"/>giſtrates, and of the Officers of this Court, your Province will not be ſo burthenſome as it is eſteemed.</p>
+            <p>And you may yet reduce it into leſs Compaſs, by ſeaſonable Severities, whereby, when you have once maſter<g ref="char:EOLhyphen"/>ed the Heads of Diſorder, others will eaſily be kept in Obedience to the King's Laws.</p>
+            <p>The Temper of the preſent Age requires your Severity in Caſes of Se<g ref="char:EOLhyphen"/>dition. It was lately grown to that Height and Inſolence, and managed with that Malice, that it was thought very near breaking out into open Force, to the Danger of the Kingdom: But by the wiſe Conduct of His Majeſty, with the Bleſſing of God, it was ſuffer<g ref="char:EOLhyphen"/>ed to baffle it ſelf by its own Extrava<g ref="char:EOLhyphen"/>gance, you may expect it ſhould now be crafty; therefore you muſt be the more careful to ſtop the Beginnings of ſo dangerous and quick-ſpreading a Poy<g ref="char:EOLhyphen"/>ſon,
+<pb n="11" facs="tcp:94498:6"/>
+and to ſuppreſs all falſe News, Li<g ref="char:EOLhyphen"/>bels, and other Materials of Sedi<g ref="char:EOLhyphen"/>tion.</p>
+            <p>A great means towards it, will be to cut off all hopes it may have of Coun<g ref="char:EOLhyphen"/>tenance in the Courts of Juſtice. You muſt not ſuffer Councils to abett the Guilt of their Clients, inſtead of en<g ref="char:EOLhyphen"/>deavouring to make them appear inno<g ref="char:EOLhyphen"/>cent, nor urge their own Opinions in<g ref="char:EOLhyphen"/>ſtead of Arguments of Law; and with that pretence of Authority, that when the Court differs from them, they af<g ref="char:EOLhyphen"/>fect to ſhew a Diſcontent, as if they ap<g ref="char:EOLhyphen"/>pealed to the By-ſtanders. Theſe Inde<g ref="char:EOLhyphen"/>cencies were not tolerated heretofore, and if you meet with them, you ſhould animadvert ſeverely upon thoſe that offend.</p>
+            <p>You muſt be ſure to maintain the reſpect that is due from the Bar to the Court.</p>
+            <p>The Greatneſs and Dignity of this Court, is neceſſary to the uſe of it, that no Offenders may think either by their Number or Magnitude to be too hard for Juſtice.</p>
+            <p>
+               <hi>Mr. Serjeant,</hi> I touch theſe things
+<pb n="12" facs="tcp:94498:7"/>
+but lightly, your own Judgment will ſhew you better Methods, to make the Juriſdiction of this Court anſwer the ends of its Inſtitution.</p>
+            <p>That the World may ſee the truth of the Act of Parliament, that took a<g ref="char:EOLhyphen"/>way the Court of <hi>Star-Chamber,</hi> which recites, that whatſoever was regularly puniſhable there, might be puniſhed in the ordinary Courſe of Juſtice.</p>
+            <p>That the King may ſee the uſe and ſufficiency of the Law for the Support of his Government, and may be more and more ſatisfied in his Reſo<g ref="char:EOLhyphen"/>lutions to govern according to Law; and all his People may live happily under his Government.</p>
+            <p>Mr. Serjeant, When you have theſe Great things under your Care, I know you will do your utmoſt for the ac<g ref="char:EOLhyphen"/>compliſhing them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
